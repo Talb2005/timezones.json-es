@@ -1,8 +1,9 @@
 {
   "name": "timezones.json-es",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full list of UTC timezones. Exported as ES module.",
   "main": "index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/Talb2005/timezones.json-es.git"

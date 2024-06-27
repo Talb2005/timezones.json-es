@@ -1,1 +1,5 @@
-module.exports = require('./timezones.json');
+"use strict";
+
+import timezones from "./timezones.json";
+
+export default timezones;
