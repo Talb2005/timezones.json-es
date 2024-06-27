@@ -1,11 +1,11 @@
 {
-  "name": "timezones.json",
-  "version": "1.7.1",
-  "description": "Full list of UTC timezones",
+  "name": "timezones.json-es",
+  "version": "1.0.0",
+  "description": "Full list of UTC timezones. Exported as ES module.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dmfilipenko/timezones.json.git"
+    "url": "https://github.com/Talb2005/timezones.json-es.git"
   },
   "keywords": [
     "timezone",
@@ -13,10 +13,10 @@
     "time",
     "UTC"
   ],
-  "author": "Dmytro Filipenko",
+  "author": "Tal Bar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dmfilipenko/timezones.json/issues"
+    "url": "https://github.com/Talb2005/timezones.json-es/issues"
   },
-  "homepage": "https://github.com/dmfilipenko/timezones.json"
+  "homepage": "https://github.com/Talb2005/timezones.json-es"
 }
